@@ -1,0 +1,32 @@
+#titleofthepage {
+    text-align: center;
+}
+img {
+    width: 400px;
+    float: left;
+    margin-right: 20px;
+}
+#engine {
+    float: right;
+    margin-left: 20px;
+    
+}
+body {
+    background-color: rgb(187, 186, 186);
+}
+a {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #007bff;
+    background:#007bff;
+    padding: 10px;
+    color:white;
+    text-decoration: none;
+    border-radius:6px;
+}
+
+a:hover {
+    background: white;
+    color: #007bff;
+}
